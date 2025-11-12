@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mitchelxebec I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs RESTAPI, NodeJs
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me (https://web.facebook.com/me/)
 
